@@ -126,6 +126,7 @@ database.once('value', function (snapshot) {
     }
 });
 
+
 //Preventive report 
 
 var rootRef = firebase.database().ref();
